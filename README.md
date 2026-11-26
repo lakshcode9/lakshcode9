@@ -3,7 +3,7 @@
 <a href="https://lakshpujary.tech"><img src="./banner.svg" width="100%" alt="Laksh Pujary. LLM systems for real businesses. Mangaluru, India." /></a>
 
 <a href="https://github.com/lakshcode9">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=20&duration=3000&pause=1000&color=FF5A3D&center=true&vCenter=true&width=640&lines=AI+receptionist+for+a+hotel+phone+line;Online+store+for+a+streetwear+brand;Research+pipeline+that+publishes+itself;Learning+AI+evaluation" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=20&duration=3000&pause=1000&color=FF5A3D&center=true&vCenter=true&width=640&lines=AI+receptionist+for+a+hotel+phone+line;Research+pipeline+that+publishes+itself;Learning+AI+evaluation" alt="Typing intro" />
 </a>
 
 <br/>
@@ -27,7 +27,7 @@ Most of my work is the part around the model: tool boundaries, business rules ke
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
 ### [hotel-ai-reception](https://github.com/lakshcode9/hotel-ai-reception)
 Self-hosted AI receptionist for a hotel phone line. The model **cannot** report success the backend didn't confirm.
@@ -38,18 +38,6 @@ Self-hosted AI receptionist for a hotel phone line. The model **cannot** report 
 - Tests caught a retrieval false positive: *"do you have a helipad?"* matched pool FAQs on the word "have"
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-17191E?style=flat-square&logo=typescript&logoColor=FF5A3D) ![Node](https://img.shields.io/badge/node%3Atest-17191E?style=flat-square&logo=nodedotjs&logoColor=FF5A3D) ![LLM](https://img.shields.io/badge/LLM%20tool%20calling-17191E?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### [guild](https://github.com/lakshcode9/guild)
-The full online store for a streetwear retailer in Karnataka.
-
-- Next.js 16 storefront + Django REST API
-- Razorpay payments, Shiprocket shipping
-- OTP checkout, returns, order management
-
-![Next.js](https://img.shields.io/badge/Next.js-17191E?style=flat-square&logo=nextdotjs&logoColor=FF5A3D) ![Django](https://img.shields.io/badge/Django-17191E?style=flat-square&logo=django&logoColor=FF5A3D) ![Tailwind](https://img.shields.io/badge/Tailwind-17191E?style=flat-square&logo=tailwindcss&logoColor=FF5A3D)
 
 </td>
 </tr>
