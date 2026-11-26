@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=220&section=header&text=Laksh%20Pujary&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=AI%20that%20can%27t%20lie%20about%20what%20it%20did&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Laksh Pujary" />
+<a href="https://lakshpujary.tech"><img src="./banner.svg" width="100%" alt="Laksh Pujary. LLM systems for real businesses. Mangaluru, India." /></a>
 
 <a href="https://github.com/lakshcode9">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=24C6DC&center=true&vCenter=true&width=640&lines=Self-taught+engineer+%C2%B7+Mangaluru%2C+India;LLM+systems+for+real+businesses;Tool+boundaries.+Audit+trails.+Tests.;Building+toward+AI+evaluation+work" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=20&duration=3000&pause=1000&color=FF5A3D&center=true&vCenter=true&width=640&lines=AI+receptionist+for+a+hotel+phone+line;Online+store+for+a+streetwear+brand;Research+pipeline+that+publishes+itself;Learning+AI+evaluation" alt="Typing intro" />
 </a>
 
 <br/>
 
-<a href="https://lakshpujary.tech"><img src="https://img.shields.io/badge/lakshpujary.tech-0f0c29?style=for-the-badge&logo=googlechrome&logoColor=24c6dc" alt="Website" /></a>
-<img src="https://img.shields.io/badge/Open%20to-AI%20eval%20%26%20contract%20work-302b63?style=for-the-badge" alt="Open to work" />
+<a href="https://lakshpujary.tech"><img src="https://img.shields.io/badge/lakshpujary.tech-FF5A3D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+<img src="https://img.shields.io/badge/Open%20to-AI%20eval%20%26%20contract%20work-17191E?style=for-the-badge" alt="Open to work" />
 
 </div>
 
@@ -37,7 +37,7 @@ Self-hosted AI receptionist for a hotel phone line. The model **cannot** report 
 - Every state change is audited · 26 tests, one or more per guarantee
 - Tests caught a retrieval false positive: *"do you have a helipad?"* matched pool FAQs on the word "have"
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node](https://img.shields.io/badge/node%3Atest-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![LLM](https://img.shields.io/badge/LLM%20tool%20calling-302b63?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-17191E?style=flat-square&logo=typescript&logoColor=FF5A3D) ![Node](https://img.shields.io/badge/node%3Atest-17191E?style=flat-square&logo=nodedotjs&logoColor=FF5A3D) ![LLM](https://img.shields.io/badge/LLM%20tool%20calling-17191E?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
@@ -49,7 +49,7 @@ The full online store for a streetwear retailer in Karnataka.
 - Razorpay payments, Shiprocket shipping
 - OTP checkout, returns, order management
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-17191E?style=flat-square&logo=nextdotjs&logoColor=FF5A3D) ![Django](https://img.shields.io/badge/Django-17191E?style=flat-square&logo=django&logoColor=FF5A3D) ![Tailwind](https://img.shields.io/badge/Tailwind-17191E?style=flat-square&logo=tailwindcss&logoColor=FF5A3D)
 
 </td>
 </tr>
@@ -63,7 +63,7 @@ Automated research pipeline, run on a weekly cron.
 - Researches each trend with Perplexity
 - Renders PDF reports with Puppeteer and publishes them to Gumroad
 
-![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=flat-square&logo=perplexity&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-17191E?style=flat-square&logo=nodedotjs&logoColor=FF5A3D) ![Perplexity](https://img.shields.io/badge/Perplexity-17191E?style=flat-square&logo=perplexity&logoColor=FF5A3D) ![Puppeteer](https://img.shields.io/badge/Puppeteer-17191E?style=flat-square&logo=puppeteer&logoColor=FF5A3D)
 
 </td>
 <td width="50%" valign="top">
@@ -75,7 +75,7 @@ Self-hosted n8n on Render, free.
 - Supabase Postgres so workflows survive restarts
 - Uptime keep-alive setup
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-17191E?style=flat-square&logo=docker&logoColor=FF5A3D) ![Supabase](https://img.shields.io/badge/Supabase-17191E?style=flat-square&logo=supabase&logoColor=FF5A3D) ![Render](https://img.shields.io/badge/Render-17191E?style=flat-square&logo=render&logoColor=FF5A3D)
 
 </td>
 </tr>
@@ -97,9 +97,9 @@ Self-hosted n8n on Render, free.
 
 ## Currently
 
-- Building toward **AI evaluation work**: testing agent and model outputs against ground truth, not vibes
-- Working through **CS50P** and a structured AI engineering curriculum (RAG, embeddings, evals, fine-tuning)
+- Learning how to evaluate AI agents and model outputs, and applying for evaluation work
+- Doing CS50P alongside an AI engineering curriculum: RAG, embeddings, evals, fine-tuning
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="" />
+<div align="center"><sub><a href="https://lakshpujary.tech">lakshpujary.tech</a></sub></div>
