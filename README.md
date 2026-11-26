@@ -15,7 +15,7 @@
 
 <br/>
 
-## 🧠 About
+## About
 
 I build LLM systems for small businesses, and I care most about one failure mode: **an AI that says it did something it didn't.**
 
@@ -23,13 +23,13 @@ Most of my work is the part around the model: tool boundaries, business rules ke
 
 <br/>
 
-## 🛠️ Featured work
+## Featured work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [🏨 hotel-ai-reception](https://github.com/lakshcode9/hotel-ai-reception)
+### [hotel-ai-reception](https://github.com/lakshcode9/hotel-ai-reception)
 Self-hosted AI receptionist for a hotel phone line. The model **cannot** report success the backend didn't confirm.
 
 - Tools return `Result<T, E>`, passed to the model verbatim
@@ -42,7 +42,7 @@ Self-hosted AI receptionist for a hotel phone line. The model **cannot** report 
 </td>
 <td width="50%" valign="top">
 
-### [🛍️ guild](https://github.com/lakshcode9/guild)
+### [guild](https://github.com/lakshcode9/guild)
 The full online store for a streetwear retailer in Karnataka.
 
 - Next.js 16 storefront + Django REST API
@@ -56,7 +56,7 @@ The full online store for a streetwear retailer in Karnataka.
 <tr>
 <td width="50%" valign="top">
 
-### [📈 trend-brief-engine](https://github.com/lakshcode9/trend-brief-engine)
+### [trend-brief-engine](https://github.com/lakshcode9/trend-brief-engine)
 Automated research pipeline, run on a weekly cron.
 
 - Scores Google Trends + Reddit signals
@@ -68,7 +68,7 @@ Automated research pipeline, run on a weekly cron.
 </td>
 <td width="50%" valign="top">
 
-### [⚙️ n8n](https://github.com/lakshcode9/n8n)
+### [n8n](https://github.com/lakshcode9/n8n)
 Self-hosted n8n on Render, free.
 
 - Custom Dockerfile: ffmpeg, Python, yt-dlp
@@ -83,7 +83,7 @@ Self-hosted n8n on Render, free.
 
 <br/>
 
-## 💻 Stack
+## Stack
 
 <div align="center">
 
@@ -95,10 +95,10 @@ Self-hosted n8n on Render, free.
 
 <br/>
 
-## 🌱 Currently
+## Currently
 
-- 🎯 Building toward **AI evaluation work**: testing agent and model outputs against ground truth, not vibes
-- 📚 Working through **CS50P** and a structured AI engineering curriculum (RAG, embeddings, evals, fine-tuning)
+- Building toward **AI evaluation work**: testing agent and model outputs against ground truth, not vibes
+- Working through **CS50P** and a structured AI engineering curriculum (RAG, embeddings, evals, fine-tuning)
 
 <br/>
 
